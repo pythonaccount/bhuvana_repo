@@ -1,3 +1,4 @@
+# This is Oyr first program
 def shout(text):
     return text.upper()
 
@@ -16,6 +17,7 @@ greet(shout)
 greet(whisper)
 
 
+# This is another Program
 def create_adder(x):
     def adder(y):
         return x + y
