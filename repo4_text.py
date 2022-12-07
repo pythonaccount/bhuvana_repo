@@ -30,3 +30,4 @@ object1 = vehicle('postgresql',40000)
 object1.show()
 object1.bike()
 
+this is example program to polymorphism topic
