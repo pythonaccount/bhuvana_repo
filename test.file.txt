@@ -1,0 +1,1 @@
+the file handling plays an important role  in python and it when the data needs to be stored  permanently into th file
